@@ -4,6 +4,10 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+# Игнорировать все .DS_Store файлы
+.DS_Store
+**/.DS_Store
+
 ### STS ###
 .apt_generated
 .classpath
